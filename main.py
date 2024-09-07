@@ -7,7 +7,7 @@ import client
 
 engine = pyttsx3.init()
 r = sr.Recognizer()
-newsapi = "fb27f411dd3c46708dbf571c7607f3d7"
+newsapi = "API KEY"
 
 def music():
     try:
